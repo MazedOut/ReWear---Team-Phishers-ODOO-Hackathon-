@@ -65,7 +65,6 @@ rewear-platform/
 
 ---
 
-Let me know if you want to add badges, usage instructions, screenshots, or deployment steps (e.g., Vercel setup). I can also update the README for GitHub formatting. ​:contentReference[oaicite:0]{index=0}​
 
 
 
